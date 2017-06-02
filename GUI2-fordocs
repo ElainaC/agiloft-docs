@@ -19,7 +19,6 @@ banana
 action.hide=Hide
 action.unhide=Unhide
 action.download=Download
-action.edit=Edit
 action.edit=Edit mango
 action.filter=Filter
 action.enable=Enable
@@ -27,7 +26,6 @@ action.disable=Disable
 action.find=Search
 action.forward=Forward
 action.hotkeys.disabled=The default behavior for hotkey {0} is disabled
-action.link=Link
 action.link=Link alphabet
 action.massedit=Mass Edit
 action.move=Move
