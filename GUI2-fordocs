@@ -15,10 +15,12 @@ action.cc=CC
 action.copy=Copy
 action.delete=Delete
 action.delete.confirm=Are you sure you want to delete the selected records?
+banana
 action.hide=Hide
 action.unhide=Unhide
 action.download=Download
 action.edit=Edit
+action.edit=Edit mango
 action.filter=Filter
 action.enable=Enable
 action.disable=Disable
