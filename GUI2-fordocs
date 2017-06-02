@@ -1,5 +1,6 @@
 ##EUI PART
 action.activate=Activated test 2 from Elaina
+test.test=This is a new branch/commit/merge test
 action.deactivate=Deactivate
 action.inactivate=Inactivate
 action.adddNote=Add Note
