@@ -7,6 +7,7 @@ action.adddNote=Add Note
 action.append=Append
 action.applyscheme=Set As Default
 action.export=Export
+edit edit edit
 action.bar.configurate=Click here to configure the command bar
 action.bcc=BCC
 action.calendar.addnew=Add a New Calendar Record
@@ -25,6 +26,7 @@ action.find=Search
 action.forward=Forward
 action.hotkeys.disabled=The default behavior for hotkey {0} is disabled
 action.link=Link
+action.link=Link alphabet
 action.massedit=Mass Edit
 action.move=Move
 action.new=New
